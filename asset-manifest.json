@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/thesafecure/static/css/main.21db1423.chunk.css",
+    "main.js": "/thesafecure/static/js/main.5db943b9.chunk.js",
+    "main.js.map": "/thesafecure/static/js/main.5db943b9.chunk.js.map",
+    "runtime-main.js": "/thesafecure/static/js/runtime-main.7b881e54.js",
+    "runtime-main.js.map": "/thesafecure/static/js/runtime-main.7b881e54.js.map",
+    "static/css/2.7cef8b32.chunk.css": "/thesafecure/static/css/2.7cef8b32.chunk.css",
+    "static/js/2.be9394d0.chunk.js": "/thesafecure/static/js/2.be9394d0.chunk.js",
+    "static/js/2.be9394d0.chunk.js.map": "/thesafecure/static/js/2.be9394d0.chunk.js.map",
+    "static/js/3.5fb87674.chunk.js": "/thesafecure/static/js/3.5fb87674.chunk.js",
+    "static/js/3.5fb87674.chunk.js.map": "/thesafecure/static/js/3.5fb87674.chunk.js.map",
+    "index.html": "/thesafecure/index.html",
+    "static/css/2.7cef8b32.chunk.css.map": "/thesafecure/static/css/2.7cef8b32.chunk.css.map",
+    "static/css/main.21db1423.chunk.css.map": "/thesafecure/static/css/main.21db1423.chunk.css.map",
+    "static/js/2.be9394d0.chunk.js.LICENSE.txt": "/thesafecure/static/js/2.be9394d0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/thesafecure/static/media/logo.6ce24c58.svg",
+    "static/media/nurses.d8c6b390.jpg": "/thesafecure/static/media/nurses.d8c6b390.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b881e54.js",
+    "static/css/2.7cef8b32.chunk.css",
+    "static/js/2.be9394d0.chunk.js",
+    "static/css/main.21db1423.chunk.css",
+    "static/js/main.5db943b9.chunk.js"
+  ]
+}
